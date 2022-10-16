@@ -3,12 +3,19 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package extra6.Servicios;
+package ej10;
 
 /**
  *
  * @author dpicc
  */
-public class AhorcadoServicios {
+public class EJ10 {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+    }
     
 }
